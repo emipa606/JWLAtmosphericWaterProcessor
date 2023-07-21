@@ -9,9 +9,6 @@ Update of Jewelss mod https://steamcommunity.com/sharedfiles/filedetails/?id=266
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
-![Image](https://i.imgur.com/p7Fv1Z6.gif)
-
-![Image](https://i.imgur.com/2gyT3q6.png)
 
 ![Image](https://i.imgur.com/B1FaoPN.png)
 
@@ -78,3 +75,4 @@ Kentington and Thain for https://steamcommunity.com/sharedfiles/filedetails/?id=
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/3007838663]Last updated 2023-07-21
