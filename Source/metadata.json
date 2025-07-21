@@ -2,5 +2,14 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 4576,
+  "LinesOfXML": 4181,
+  "CodeBaseSize": 63,
+  "LastXmlCleaning": "2025-07-21T20:16:57.2855877+02:00",
+  "SocialImageSet": true,
+  "SearchTags": " space water"
 }

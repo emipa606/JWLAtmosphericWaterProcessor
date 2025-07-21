@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Atmospheric Water Processor -->
+  <JWL_AtmoCollector.label>Atmospheric Water Processor</JWL_AtmoCollector.label>
+  <!-- EN: Continuously emits a swarm of nanomachines into the atmosphere of a nearby planet to retrieve small particles of water and ice. It is then processed into potable water and dumped into the piping network. Produces 800L/h but consumes an extreme amount of power (12kw). -->
+  <JWL_AtmoCollector.description>Continuously emits a swarm of nanomachines into the atmosphere of a nearby planet to retrieve small particles of water and ice. It is then processed into potable water and dumped into the piping network. Produces 800L/h but consumes an extreme amount of power (12kw).</JWL_AtmoCollector.description>
+</LanguageData>

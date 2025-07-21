@@ -10,7 +10,7 @@ public class CompDesalinationPlant : ThingComp
 
     private CompPowerTrader compPower;
 
-    public CompProperties_DesalinationPlant Props => props as CompProperties_DesalinationPlant;
+    private CompProperties_DesalinationPlant Props => props as CompProperties_DesalinationPlant;
 
     public override void PostSpawnSetup(bool respawningAfterLoad)
     {
